@@ -9,7 +9,7 @@ Unofficial offline & web API reference for the **FiveM Enhanced `.NET 10` (`clrc
 
 ## Live Documentation
 
-**GitHub Pages:** https://nullptrpup.github.io/fivem-dotnet10-docs/
+**Live Site:** https://fivem.nullptrpup.dev/ (hosted via GitHub Pages)
 
 ## Key Features
 
